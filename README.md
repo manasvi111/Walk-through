@@ -10,6 +10,7 @@ PHP Assignment 3
   <body>
     <h1>
       <?php 
+          $greetings = "Hello";
           echo "Hello, World";
       ?>
     </h1>
