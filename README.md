@@ -11,7 +11,7 @@ PHP Assignment 3
     <h1>
       <?php 
           $greetings = "Hello";
-          echo "Hello, World";
+          echo "$greetings Everybody!";
       ?>
     </h1>
   </body>
